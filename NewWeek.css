@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+color: brown;
+background-color: pink;
+background-image: -moz-repeating-radial-gradient();
+a: hover {color: #FF00FF;}
+}
+h1 {
+    font-variant: small-caps;
+    
+}
+.heading:hover {
+    color: red;
+}
+ .heading:active {
+     color: green;
+}
+
+
