@@ -8,7 +8,7 @@
 :hamster: image (img) <br>
 :hamster: anchor link (a) to an external website <br>
 :hamster: a separate .css style file applied  to multiple html documents <br>
-[<h5>HTML Validated </h5>](https://jigsaw.w3.org/css-validator)
+
 
 <h2> The CSS Page has the following: </h2>
 :hamster: font-family <br>
@@ -19,7 +19,10 @@
 :hamster: different type of selectors  <br>
 :hamster: half transparent background color, rounder corner <br>
 
-[<h5>CSS Validated </h5>](https://validator.w3.org)
-[<h5>Colors Contrasts is checked</h5>](https://webaim.org/resources/contrastchecker)
+<h2>Code Validation Sources</h2>
+:hamster: [<h5>HTML Validated </h5>](https://jigsaw.w3.org/css-validator)
+:hamster: [<h5>CSS</h5>](https://validator.w3.org)<br>
+:hamster: [<h5>Color Contrasts</h5>](https://webaim.org/resources/contrastchecker)
+
 
 
