@@ -1,6 +1,6 @@
 <H1> Learning HTML, CSS Syntax </H1>
 
-[<h3>See the File :roller_coaster:</h3>]()
+[<h3>See the File :roller_coaster:</h3>](http://users.metropolia.fi/~ekaterv/CSS%20Assignment%202/Prog.html)
 
 <h2> The HTML Page has the following: </h2>
 :hamster: page structure (header, footer, section etc.) <br>
