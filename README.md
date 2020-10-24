@@ -20,9 +20,6 @@
 :hamster: half transparent background color, rounder corner <br>
 
 <h2>Code Validation Sources</h2>
-:hamster: [<h5>HTML Validated </h5>](https://jigsaw.w3.org/css-validator)
-:hamster: [<h5>CSS</h5>](https://validator.w3.org)<br>
-:hamster: [<h5>Color Contrasts</h5>](https://webaim.org/resources/contrastchecker)
-
-
-
+:hamster: [HTML Validated ](https://jigsaw.w3.org/css-validator)
+:hamster: [ CSS ](https://validator.w3.org)<br>
+:hamster: [ Color Contrasts ](https://webaim.org/resources/contrastchecker)
